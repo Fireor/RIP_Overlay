@@ -1,0 +1,6 @@
+To set your Client Path, please find the logs file for your client,
+and copy the whole path towards that logs folder and paste it in
+the "Client Path" section on the overlay and press "Ok".
+Don't forget to press the "Start" button on the overlay to start.
+
+If you encounter any issues, please DM "fireor" on Discord.
